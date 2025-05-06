@@ -24,8 +24,6 @@ My research interests lie in developing reliable machine learning algorithms and
 
 
 # 🧩 Research Interests
-======
-
 - **Multimodal Learning**: Multimodal Fusion, Imbalanced Multimodal Learning.  
 - **Alignment of Foundation Models**: LLMs, VLMs.  
 - **Trustworthy AI**: Safety, Uncertainty, etc. 
