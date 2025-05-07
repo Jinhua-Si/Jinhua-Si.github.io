@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jinhua Si"
 description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "Jinhua-Si/Jinhua-Si.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -30,14 +30,14 @@ author:
   googlescholar    : 
   email            : "3022001775@tju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  https://Jinhua-Si.github.io
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Jinhua-Si"
   google_plus      :
   keybase          :
   instagram        :
