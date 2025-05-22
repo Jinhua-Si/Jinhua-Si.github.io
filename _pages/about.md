@@ -26,7 +26,8 @@ My research interests lie in developing reliable machine learning algorithms and
 # 🧩 Research Interests
 - **Multimodal Learning**: Multimodal Fusion, Imbalanced Multimodal Learning.  
 - **Alignment of Foundation Models**: LLMs, VLMs.  
-- **Trustworthy AI**: Safety, Uncertainty, etc. \\
+- **Trustworthy AI**: Safety, Uncertainty, etc.
+
 I am very excited about potential collaboration opportunities! You can find my [CV](../assets/CV-Jinhua%20Si-EN.pdf) here. If you share similar research interests and find my work interesting, I warmly welcome you to add my [Wechat](../images/wechat.jpg) for further discussion!
 
 
