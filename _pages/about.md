@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About Me
-Hi there! I’m a research assistant at Purdue University, Department of Computer Science, advised by [Dr. Ruqi Zhang](https://ruqizhang.github.io/). I am also in my third year as an undergraduate student at the College of Intelligence and Computing, Tianjin University. Previously, I worked as a research assistant in the Graphics Imaging and Media Computing Group, under the guidance of [Dr. Fanhua Shang](https://sites.google.com/site/fanhua217/home).
+Hi there! I am in my third year as an undergraduate student at the College of Intelligence and Computing, Tianjin University. Previously, I worked as a research assistant in the Graphics Imaging and Media Computing Group, under the guidance of [Dr. Fanhua Shang](https://sites.google.com/site/fanhua217/home).
 
 My research interests lie in developing reliable machine learning algorithms and frameworks for real-world applications, with a particular focus on the alignment of Large Foundation Models (LLMs and VLMs) and the generalization of multimodal learning algorithms.
 
