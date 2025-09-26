@@ -23,11 +23,11 @@ Hi there! I am in my third year as an undergraduate student at the College of In
 My current research focus is to develop theory and algorithms for reliable machine learning (ML), foundation model reliability, and related applications.
 
 # 🧩 Research Interests
-- **Out-of-distribution (OOD) research**: Semantic/Covariate shifts, Adversarial and Noisy Samples.  
+- **Out-of-distribution (OOD) research**: Semantic/covariate shifts, adversarial and noisy Samples.  
 - **Reliability of foundation models**: Model hallucination detection and mitigation.  
-- **Alignment of Foundation Models**: LLMs, VLMs.
+- **Alignment of foundation Models**: LLMs, VLMs.
 
-I am very excited about potential collaboration opportunities! You can find my [CV](../assets/CV-Jinhua%20Si-EN.pdf) here. If you share similar research interests and find my work interesting, I warmly welcome you to add my [Wechat](../images/wechat.jpg) for further discussion!
+I am very excited about potential collaboration opportunities! You can find my [CV](../assets/CV-Ethan%20Si.pdf) here. If you share similar research interests and find my work interesting, I warmly welcome you to add my [Wechat](../images/wechat.jpg) for further discussion!
 
 
 # 🔥 News
