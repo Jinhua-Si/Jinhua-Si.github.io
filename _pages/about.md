@@ -38,5 +38,6 @@ Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 
 
 # 📖 Educations
+- *2026.08 - Present*, Ph.D. in Computer Science, Michigan State University 
 - *2025.06 - 2025.12*, Research Assitant, College of Computing and Data Science (CCDS), Nanyang Technological University
 - *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University 
