@@ -21,10 +21,10 @@ redirect_from:
 Hi there! I'm a PhD student at Michigan State University University, advised by Dr. Jiliang Tang and Dr. Hui Liu. I obtained my B.S. degree at the College of Intelligence and Computing, Tianjin University. Previously, I worked as a research assistant in the Radio Lab, advised by Dr. [Sean (Xuefeng) Du](https://d12306.github.io/). 
 
 # 🧑‍🎓 Research Interests
-LLM/VLM Post-Training
+LLM/VLM Post-Training:
 Reinforcement Learning, On-Policy Distillation, Reasoning, Self-Correction, and Self-Evolving.
 
-Alignment and Reliability
+Alignment and Reliability:
 Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 
 🤝 Open to collaborations! Feel free to reach out if our research interests align. 
@@ -38,5 +38,5 @@ Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 
 
 # 📖 Educations
-- *2025.06 - Present*, Research Assitant, College of Computing and Data Science (CCDS), Nanyang Technological University
-- *2022.08 - Present*, B.S., College of Intelligence and Computing, Tianjin University 
+- *2025.06 - 2025.12*, Research Assitant, College of Computing and Data Science (CCDS), Nanyang Technological University
+- *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University 
