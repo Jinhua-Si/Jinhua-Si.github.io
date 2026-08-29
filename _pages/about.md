@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About Me
-Hi there! I am in my third year as an undergraduate student at the College of Intelligence and Computing, Tianjin University. Now, I worked as a research assistant in the Radio Lab, advised by Dr. [Sean (Xuefeng) Du](https://d12306.github.io/). 
+Hi there! I'm a PhD student at Michigan State University University, advised by Dr. Jiliang Tang and Dr. Hui Liu. I obtained my B.S. degree at the College of Intelligence and Computing, Tianjin University. Previously, I worked as a research assistant in the Radio Lab, advised by Dr. [Sean (Xuefeng) Du](https://d12306.github.io/). 
 
 
 # 🔥 News
