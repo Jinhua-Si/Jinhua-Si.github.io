@@ -42,8 +42,8 @@ Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 
 # 📖 Educations
 - *2026.08 - Present*, Ph.D. in Computer Science, Michigan State University, Advisor: Dr. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Dr. [Hui Liu](https://engineering.msu.edu/directory/faculty/liuhui7)
-- *2025.06 - 2025.12*, Research Assistant, College of Computing and Data Science (CCDS), Nanyang Technological University
-- *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University
+- *2025.06 - 2025.12*, Research Assistant, College of Computing and Data Science (CCDS), Nanyang Technological University, Mentor: Dr. [Sean (Xuefeng) Du](https://d12306.github.io/)
+- *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University, Advisor: Dr. [Fanhua Shang](https://faculty.tju.edu.cn/fhshang/zh_CN/index.htm)
 
 # 💼 Internships
 - *2026.03 - 2026.08*, Intern, Agent Strategy Department, Baidu
