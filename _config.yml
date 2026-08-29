@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinhua Si(司锦华)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tianjin University"
-  location         : "Tianjin, China"
+  bio              : "Michigan State University"
+  location         : "East Lansing, Michigan, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "3022001775@tju.edu.cn"
+  email            : "sijinhua@msu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :  https://Jinhua-Si.github.io
   bitbucket        :
