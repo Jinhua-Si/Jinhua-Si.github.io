@@ -25,7 +25,7 @@ LLM/VLM Post-Training
 Reinforcement Learning, On-Policy Distillation, Reasoning, Self-Correction, and Self-Evolving.
 
 Alignment and Reliability
-Preference Alignment, Safety Alignment, Reliable Supervision, and Robustness.
+Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 
 🤝 Open to collaborations! Feel free to reach out if our research interests align. 
 
