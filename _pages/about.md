@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👀 About Me
-Hi there! I'm a PhD student at Michigan State University University, advised by Dr. Jiliang Tang and Dr. Hui Liu. I obtained my B.S. degree at the College of Intelligence and Computing, Tianjin University. Previously, I worked as a research assistant in the Radio Lab, advised by Dr. [Sean (Xuefeng) Du](https://d12306.github.io/). 
+Hi there! I'm a PhD student at Michigan State University, advised by Dr. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Dr. Hui Liu. I obtained my B.S. degree at the College of Intelligence and Computing, Tianjin University. Previously, I worked as a research assistant in the Radio Lab, advised by Dr. [Sean (Xuefeng) Du](https://d12306.github.io/).
 
 # 🧑‍🎓 Research Interests
-LLM/VLM Post-Training:
+**LLM/VLM Post-Training**<br>
 Reinforcement Learning, On-Policy Distillation, Reasoning, Self-Correction, and Self-Evolving.
 
-Alignment and Reliability:
+**Alignment and Reliability**<br>
 Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 
 🤝 Open to collaborations! Feel free to reach out if our research interests align. 
@@ -36,13 +36,19 @@ Preference Alignment, Safety Alignment, Hallucination Detection, and Robustness.
 # 📝 Publications 
 
 
+# 🏆 Honors and Awards
+- *2026*, Outstanding Incoming Ph.D. Student Award, Michigan State University
+
 
 # 📖 Educations
-- *2026.08 - Present*, Ph.D. in Computer Science, Michigan State University, Advisor: Dr. Jiliang Tang and Dr. Hui Liu 
-- *2025.06 - 2025.12*, Research Assitant, College of Computing and Data Science (CCDS), Nanyang Technological University
+- *2026.08 - Present*, Ph.D. in Computer Science, Michigan State University, Advisor: Dr. [Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and Dr. Hui Liu
+- *2025.06 - 2025.12*, Research Assistant, College of Computing and Data Science (CCDS), Nanyang Technological University
 - *2022.08 - 2026.06*, B.S., College of Intelligence and Computing, Tianjin University
 
+# 💼 Internships
+- *2026.03 - 2026.08*, Intern, Agent Strategy Department, Baidu
+
 # 📑 Academic Services
-Conference Reviewer
-NeurIPS 2025
-AAAI 2025, 2026
+**Conference Reviewer**
+- NeurIPS 2025
+- AAAI 2025, 2026
